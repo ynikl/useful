@@ -1,0 +1,2 @@
+mysql:
+  dsn: "ft_admin:gopher!!2024@tcp(rm-uf6120rs92q318iqfio.mysql.rds.aliyuncs.com:3306)/flow?charset=utf8mb4&parseTime=True&loc=Local"

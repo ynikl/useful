@@ -1,0 +1,2 @@
+mysql:
+  dsn: "name:pwd@tcp(hosename:post)/database?charset=utf8mb4&parseTime=True&loc=Local"
